@@ -2,7 +2,9 @@
 
 <p align="left"> 
   Olá, sou Victor. Como vai? 
-  Atualmente estou estudando front-end no Programa Starter Full Stack da Growdev
+  Atualmente estou estudando front-end no Programa Starter Full Stack da Growdev.
+  Costumo passar meu tempo livre com minha família ou mergulhado em livros.
+  Experiencias anteriores na área de vendas.
 </p>
 
 <p align="left">
@@ -19,14 +21,8 @@
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victorliranfsu@gmail.com" /></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=1a7x8o5fvmd9o&utm_content=126go7m"/></a>
 </p>  
