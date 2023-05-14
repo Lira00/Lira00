@@ -20,9 +20,9 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="#" alt="mailto:victorliranfsu@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victorliranfsu@gmail.com" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="#" alt="https://www.instagram.com/invites/contact/?i=1a7x8o5fvmd9o&utm_content=126go7m">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=1a7x8o5fvmd9o&utm_content=126go7m"/></a>
 </p>  
