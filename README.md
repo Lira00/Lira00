@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, C++, HTML, CSS.</strong>
+  🦄 Linguagens: <strong>Java, C++, HTML, CSS, Python.</strong>
 </p>
 
 <p align="left">
