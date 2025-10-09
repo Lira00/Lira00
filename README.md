@@ -34,6 +34,10 @@
   <a href="https://www.instagram.com/invites/contact/?i=1a7x8o5fvmd9o&utm_content=126go7m" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/victor-fernandes-909b22191/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -74,5 +78,8 @@
   <a href="https://www.instagram.com/invites/contact/?i=1a7x8o5fvmd9o&utm_content=126go7m" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</p>
 
+  <a href="https://www.linkedin.com/in/victor-fernandes-909b22191/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
