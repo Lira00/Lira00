@@ -15,7 +15,7 @@
 
 ### 🦄 Linguagens
 <p align="left">
-  <strong>Java</strong> • <strong>C++</strong> • <strong>HTML</strong> • <strong>CSS</strong> • <strong>Python</strong>
+  <strong>Java</strong> • <strong>C++</strong> • <strong>HTML</strong> • <strong>CSS</strong> • <strong>Python</strong> • <strong>TypeScript</strong>
 </p>
 
 ### 💼 Ferramentas
